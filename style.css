@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* Container */
+
 .container{
     max-width: 1500px;
     margin: auto;
@@ -11,6 +13,8 @@
     padding: 3em;
     font-family: 'Fredoka One', cursive;
 }
+
+/* Caratteristiche Titolo + Paragrafo */
 
 h1{
     font-size: 45px;
@@ -24,6 +28,8 @@ h1{
     padding-left: 6.5em;
     padding-right: 6.5em;
 }
+
+/* Caratteristiche Informazioni Personale*/
 
 .contact{
     width: 355px;
