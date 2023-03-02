@@ -3,3 +3,61 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    max-width: 1500px;
+    margin: auto;
+    text-align: center;
+    padding: 3em;
+    font-family: 'Fredoka One', cursive;
+}
+
+h1{
+    font-size: 45px;
+    color:deeppink;
+}
+
+.lorem{
+    font-size: 18px;
+    padding-top: 1.5em;
+    padding-bottom: 1.8em;
+    padding-left: 6.5em;
+    padding-right: 6.5em;
+}
+
+.contact{
+    width: 355px;
+    height: 90px;
+    display: inline-block;
+    background-color:rgb(15, 15, 65);
+    color: white;
+    text-align: left;
+    margin: 0.8em;
+    margin-bottom: 1.9em;
+}
+
+.contact img{
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+.info{
+    margin-left: 100px;
+    padding: 0.15em;
+    font-size: 15px;
+}
+
+address{
+    color: deepskyblue;
+    font-family:'helvetica';
+    font-style:inherit;
+}
+
+.contact #name{
+    font-family:'Trebuchet MS';
+    font-weight: bolder;
+    font-size: 17px;
+    padding-left: 0.1em;
+    margin-top: 0.3em;
+}
